@@ -20,3 +20,8 @@ Capacitive Electrodes team for ECE 522 (Spring 2018)
 - upload `rtbt.ino`
 - reconnect TX/RX
 - run `bt_ecg.m`
+
+### Results
+
+![ECG signal obtained from the hardware circuit](https://github.com/sharvaridesh/ECG-monitoring-using-capacitive-Electrodes/blob/master/results/ecg%20signal_1.JPG)
+
